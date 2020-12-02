@@ -1,0 +1,58 @@
+.logoVG {
+  width: 150px;
+  height: 150px;
+  margin-left: 10%;
+}
+
+.inline {
+  display: inline-flex;
+}
+
+/* Décoration du texte */
+
+.divCarousel {
+            height: 100%;
+            padding: 0px;
+            margin-right: auto;
+            margin-left:auto;
+
+            .carousel-inner {
+                height: 100%;
+
+                .carousel-item {
+                    height: 100%;
+                }
+            }
+
+            .carousel-item img {
+                height: 100%;
+            }
+        }
+
+.titre {
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;
+  font-variant: small-caps;
+  border : 2px solid black;
+  border-radius: 50px 50px 5px 5px;
+  background-color: #565656;
+  color:white;
+}
+
+.texte {
+  font-family: 'Nunito', sans-serif;
+  font-size:25px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border:1px solid black;
+  border-radius: 5px 5px 50px 50px;
+  background-color:  #9c9c9c;
+  color:white;
+}
+
+.texte p {
+  margin-left: 4%;
+  margin-top:2%;
+}

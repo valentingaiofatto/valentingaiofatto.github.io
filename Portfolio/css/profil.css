@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+}
+
+.nav-custom {
+  font-size:25px;
+}
+
+.zone-custom {
+  color:white;
+	background-color: #9c9c9c ;
+	border-radius:10px;
+	border:1px black solid;
+  font-size: 17px;
+  text-align: justify;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.titre-custom {
+  margin-top:2%;
+  text-decoration: underline;
+}

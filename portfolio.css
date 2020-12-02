@@ -1,0 +1,46 @@
+body{
+  background-color:  #211c1c  ;
+}
+
+#text {
+  margin-top: 15%;
+  text-align: center;
+}
+
+.nom {
+  font-size:60px;
+  color:white;
+  font-variant: small-caps;
+}
+
+.quote {
+  font-size: 25px;
+  font-style:oblique;
+  color:white;
+}
+
+.bouton {
+  display: block;
+  width: 20%;
+  color:black;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:25px;
+  font-style:italic;
+
+  text-decoration: none;
+  border-radius: 50px 50px 50px 50px;
+
+  background: #e3e3e3;
+  background: linear-gradient(to bottom, #ccc, #999);
+
+  box-shadow: 1px 1px 3px #333;
+  text-shadow: 0 1px 0 white;
+}
+
+.bouton:hover{
+  text-shadow: 0 1px 0 black;
+
+  background: #555;
+  background: linear-gradient(to bottom, #444, #555);
+}
